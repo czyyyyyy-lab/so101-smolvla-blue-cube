@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+outputs/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+wandb/
+
